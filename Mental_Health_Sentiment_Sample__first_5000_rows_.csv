@@ -1,0 +1,11 @@
+id,created_at,platform,user_location,text,sentiment_score,sentiment_label,anxiety_score,depression_score,inferred_risk
+1502,2025-06-29 23:52:50,reddit,"Kolkata,IN","These days I'm so relieved, can't seem to optimistic.",1.0,positive,-0.084,-0.069,0
+2587,2024-09-26 13:05:40,twitter,"New York,US","Work has left me good, I feel optimistic and anxious. suicidal",0.0,neutral,0.123,0.206,2
+2654,2024-03-20 18:36:22,reddit,"Sydney,AU","I've been stressed for weeks, nothing seems to help. empty",-1.0,negative,0.115,0.243,1
+1056,2024-07-24 10:37:12,reddit,"Los Angeles,US",Is anyone else feeling depressed? I don't know what to do. depressed,-1.0,negative,0.285,0.403,1
+706,2025-03-27 23:44:57,reddit,"Los Angeles,US",Is anyone else feeling stable? I don't know what to do. worthless,1.0,positive,0.013,0.498,2
+107,2025-10-30 02:10:58,reddit,"Toronto,CA",stressed thoughts keep coming; I wish I were more optimistic.,0.0,neutral,-0.048,-0.048,0
+590,2025-07-07 17:23:40,twitter,"London,UK",Sometimes I feel anxious but then I try to stay to function. restless,-1.0,negative,0.357,0.248,1
+2469,2025-08-21 03:13:11,reddit,"London,UK",My anxiety is stable and it's making me to focus.,1.0,positive,0.11,0.065,1
+2414,2024-07-31 07:41:38,twitter,"Mumbai,IN","I felt happy today, but a friend made me feel hopeful.",1.0,positive,0.001,0.135,0
+1601,2025-10-02 06:30:49,twitter,"Kolkata,IN",suicidal thoughts keep coming; I wish I were more to cope.,-1.0,negative,0.103,0.155,2
